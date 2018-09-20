@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 20 20:31:14 2018
-
-@author: Mathu_Gopalan
-"""
-
-###Read Me:###
+##Read Me:
 
 Knight Tour possible positions
 given the problem statement as 
